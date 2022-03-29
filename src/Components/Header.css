@@ -7,4 +7,12 @@
   padding: 20px;
   font-size: 25px;
   cursor: pointer;
+  border: 1px snow white;
+}
+
+@media (max-width: 1000px) {
+  .header {
+    padding-top: 15px;
+    font-size: 6.4vh;
+  }
 }

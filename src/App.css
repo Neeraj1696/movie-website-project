@@ -1,4 +1,5 @@
-body {
-  margin: 0;
-  padding: 0;
+.app {
+  background-color: rgb(56, 41, 41);
+  color: white;
+  min-height: 100vh;
 }
